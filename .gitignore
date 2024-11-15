@@ -1,2 +1,7 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
 kaggle.json
 flickr8k_data/
