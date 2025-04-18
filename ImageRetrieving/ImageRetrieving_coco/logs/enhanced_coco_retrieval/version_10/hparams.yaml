@@ -1,0 +1,10 @@
+embed_dim: 256
+hard_mining_factor: 0.25
+image_encoder_name: microsoft/swin-base-patch4-window7-224
+learning_rate: 0.0001
+should_train_image_encoder: true
+should_train_text_encoder: true
+temperature: 0.07
+text_encoder_name: roberta-large
+use_cross_modal_attention: true
+use_dual_softmax: true

@@ -1,0 +1,7 @@
+embed_dim: 256
+image_encoder_name: microsoft/swin-base-patch4-window7-224
+learning_rate: 0.0001
+should_train_image_encoder: false
+should_train_text_encoder: false
+temperature: 0.07
+text_encoder_name: roberta-large

@@ -1,0 +1,11 @@
+a_init: 10.0
+attention_heads: 8
+attention_temperature: 5.0
+b_init: -10.0
+embed_dim: 256
+freeze_image_encoder: true
+freeze_text_encoder: true
+image_encoder_name: microsoft/swin-base-patch4-window7-224
+learning_rate: 2.0e-05
+num_mixture_tokens: 64
+text_encoder_name: roberta-large
